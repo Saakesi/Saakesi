@@ -34,79 +34,11 @@
 </div>
 
 ---
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saakesi/Saakesi/output/github-snake-dark.svg">
 
-## 🚀 What I Build
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saakesi/Saakesi/output/github-snake.svg">
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 💼 SkillHire
-
-Developer analytics & referral platform
-
-<a href="https://www.skillhire.tech/">
-<img src="https://img.shields.io/badge/Live%20Project-Visit-58A6FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 ForgeAI
-
-AI-powered application generator
-
-<a href="YOUR_FORGEAI_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Currently Exploring
-
-```text
-🧠 LLM Systems       → Transformers • RoPE • KV Cache • GQA
-🤖 Agentic AI        → Agents • LangGraph • Tool Calling • MCP
-🔎 RAG               → Embeddings • Vector Search • Reranking
-⚙️ Backend           → Distributed Systems • Redis • Queues
-☁️ Infrastructure    → Docker • AWS • CI/CD
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Saakesi/Saakesi/output/github-snake.svg">
+</picture>
 
 </div>
-
----
-
-<!-- ===================================================== -->
-<!--                     ABOUT                              -->
-<!-- ===================================================== -->
-
-## 👨‍💻 About Me
-
-```javascript
-const developer = {
-    role: "Backend & GenAI Engineer",
-    education: "Final-Year Computer Science Student",
-
-    focus: [
-        "Backend Engineering",
-        "Generative AI",
-        "LLM Applications",
-        "AI Agents",
-        "Distributed Systems"
-    ],
-
-    currentlyLearning: [
-        "RAG",
-        "LangGraph",
-        "MCP",
-        "LLM Evaluation",
-        "AWS",
-        "Docker"
-    ],
-
-    mindset: "Understand the system. Build the system. Ship the system."
-};
