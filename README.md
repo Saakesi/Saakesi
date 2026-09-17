@@ -4,17 +4,22 @@
 
 
 
-# Hi, I'm Saakshi! 👋
+
 <div align="center">
+# Hi, I'm Saakshi! 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Saakshi!+%F0%9F%91%8B;Backend+%26+GenAI+Engineer;Building+LLMs%2C+AI+Agents+%26+Backend+Systems;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80" />
 <div align="center">
+<div align="center">
 
-### Backend Engineer • GenAI Engineer
+<img src="https://skillicons.dev/icons?i=python,pytorch&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,html,css,tailwind&perline=9" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Backend+Systems+%E2%9A%99%EF%B8%8F;Building+GenAI+Applications+%F0%9F%A4%96;LLMs+%7C+Agents+%7C+RAG;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80" />
+</div>
 
-<br>
+---
 
 <a href="https://github.com/Saakesi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,21 +30,6 @@
 <a href="mailto:saakshimatale@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-
-
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch&perline=8" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis&perline=8" />
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git,github&perline=8" />
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,html,css,tailwind&perline=9" />
 
 </div>
 
